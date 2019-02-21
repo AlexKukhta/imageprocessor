@@ -15,7 +15,7 @@ namespace ImageProcessor
         private const string RenamedDirectory = "Renamed";
         private const string MarkedDirectory = "Marked";
 
-        private static readonly String[] imageExtensions = { ".JPG", ".jpeg", ".png", ".gif", ".tiff", ".bmp", ".svg" };
+        private static readonly String[] imageExtensions = { ".JPG", ".jpeg", ".png" };
 
         static void Main(string[] args)
         {
